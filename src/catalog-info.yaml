@@ -5,6 +5,7 @@ metadata:
   description: Testing scm fact collector exist filter
   annotations:
     backstage.io/techdocs-ref: dir:.
+    backstage.io/source-location: url:https://github.com/juvi07/scm-tutorial/blob/main/src/catalog-info.yaml
 spec:
   type: service
   owner: group:default/eagles
